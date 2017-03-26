@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/SilverCubes/stormcast.svg?branch=master)](https://travis-ci.org/SilverCubes/stormcast)
 [![Greenkeeper badge](https://badges.greenkeeper.io/SilverCubes/stormcast.svg)](https://greenkeeper.io/)
+[![Coverage Status](https://coveralls.io/repos/github/SilverCubes/stormcast/badge.svg)](https://coveralls.io/github/SilverCubes/stormcast)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
