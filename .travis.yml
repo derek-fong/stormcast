@@ -25,4 +25,4 @@ script:
 - ng test --code-coverage --single-run
 
 after_script:
-  - cat ./coverage/*/lcov.info | ./node_modules/coveralls/bin/coveralls.js
+  - cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js
